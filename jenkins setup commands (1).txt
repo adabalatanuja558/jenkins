@@ -9,3 +9,5 @@ yum install jenkins -y
 systemctl status jenkins
 systemctl start jenkins
 systemctl status jenkins
+systemctl restart jenkins
+
